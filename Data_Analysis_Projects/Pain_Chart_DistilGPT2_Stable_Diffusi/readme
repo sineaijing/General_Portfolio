@@ -1,6 +1,6 @@
-##AN ALTERNATIVE TO A RESTRICTIVE PAIN CHART 
+AN ALTERNATIVE TO A RESTRICTIVE PAIN CHART 
 
-###PROJECT DESCRIPTION
+PROJECT DESCRIPTION
 
 This project was prompted by the studies and experiences that show that people of colour, especially darkskinned 
 people, pain and symptomps are likely to not be taken seriously in medical institutions. When I researched for this project, I found that there's tons and tons of guides to how to talk to your doctor in a way 
@@ -11,7 +11,7 @@ I also stumbled upon the pain chart - a chart of 10 drawn faces that are suppose
 This project interrogates how we are expected to talk about our pain versus how we actually talk about it. What does 
 this do to our understanding and percievement of pain, and it is possible to create a better, more relatable pain chart. 
 
-###DISTILGPT2 & STABLE DIFFUSION 
+#DISTILGPT2 & STABLE DIFFUSION 
 To generate the images for the new pain chart I have been using a stable diffusion model, that takes a text input and 
 based on that generates an image. I thought of finetuning this model, but ended up fine tuning a text generation model 
 instead, because I don't want to assume or put any of my own ideas of descriptions of pain into the model. 
