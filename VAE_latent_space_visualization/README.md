@@ -10,4 +10,4 @@ the AI model and the data it’s trained on. More specifically, I explore the la
 ### Tech Specifications 
 
 The VAE is trained on 2113 images of sea slugs from this library: https://www.gbif.org/dataset/2ef5b736-6664-49. 
-The VAE was built with PyTorch, and the latent space visualisation was built with 
+The VAE was built with PyTorch, and the latent space visualisation was built with Three.JS and React.JS. 
