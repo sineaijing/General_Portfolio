@@ -39,9 +39,9 @@ originalScene.add(camera);
 queerScene.add(camera);
 
 
-// canvas.addEventListener('mousemove', getMouse, false);    // hvad skal jeg kalde den her på? renderer=  
+// canvas.addEventListener('mousemove', getMouse, false);    
 
-// dette gør at vi ikke flytter udenfor skybox
+// don't move outside of skybox
 controls.minDistance = 10;
 controls.maxDistance = 3000;
 
